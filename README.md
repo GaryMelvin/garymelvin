@@ -10,7 +10,7 @@
 - Instagram: [garymelvin.l](https://www.instagram.com/garymelvin.l/)
 - Email: [garymelvinlie@gmail.com](mailto:garymelvinlie@gmail.com)
 
-## Github Statistic
+### Github Statistic
 <p align="left">
 <a href="https://github.com/garymelvin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=garymelvin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
