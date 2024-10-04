@@ -7,6 +7,7 @@
 
 ## Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gary-melvin-lie-589350281/)
+- Instagram: [garymelvin.l](https://www.instagram.com/garymelvin.l/)
 - Email: [garymelvinlie@gmail.com](mailto:garymelvinlie@gmail.com)
 
 <!--
