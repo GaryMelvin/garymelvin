@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Gary Melvin 👋
+- 🌱 I’m currently studying Informatics at the Udayana University.
+- 💡 I love to follow about latest technology.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gary-melvin-lie-589350281/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing badminton and billiards in my free time!
+
+## Let's Connect!
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gary-melvin-lie-589350281/)
+- Email: [garymelvinlie@gmail.com](mailto:garymelvinlie@gmail.com)
 
 <!--
 **GaryMelvin/garymelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
